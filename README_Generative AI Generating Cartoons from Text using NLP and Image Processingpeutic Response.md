@@ -49,10 +49,11 @@ pip install scikit-learn
 - Ensure that `pip` is updated to its latest version using `pip install --upgrade pip`.
 - Some libraries may have dependencies that will be automatically installed by `pip`.
 
+## Contributing
+Aubhishek Zaman, PhD
+
 ## License
 All rights reserved to Aubhishek Zaman, PhD
 
 ## Acknowledgements
-UT Southwestern Medical Center
-Michael A. White
 Hassan Waqar
